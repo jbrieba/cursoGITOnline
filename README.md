@@ -14,3 +14,5 @@ p2 mete por segunda
 
 p1 mete por segunda
 
+
+p1 por tervera
