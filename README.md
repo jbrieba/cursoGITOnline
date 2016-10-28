@@ -11,3 +11,6 @@ p1 mete lo suyo
 
 p2 mete cosas de nuevo
 p2 mete por segunda
+
+p1 mete por segunda
+
