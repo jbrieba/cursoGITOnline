@@ -10,3 +10,4 @@ p2 mete cosas
 p1 mete lo suyo 
 
 p2 mete cosas de nuevo
+p2 mete por segunda
